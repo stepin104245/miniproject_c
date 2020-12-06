@@ -1,2 +1,5 @@
 # miniproject_c
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/97ed3a8777754eec86488e042a91f69b)](https://app.codacy.com/gh/stepin104245/miniproject_c?utm_source=github.com&utm_medium=referral&utm_content=stepin104245/miniproject_c&utm_campaign=Badge_Grade)
+
 personal diary management system
