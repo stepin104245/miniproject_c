@@ -9,6 +9,3 @@ personal diary management system
 ![Valgrind](https://github.com/stepin104245/miniproject_c/workflows/Valgrind/badge.svg)
 ![C/C++ CI](https://github.com/stepin105361/calc/workflows/C/C++%20CI/badge.svg)
 
-
-
-![Unit testing](https://github.com/prithviwarrior/stepin105176/workflows/Unit%20testing/badge.svg)
