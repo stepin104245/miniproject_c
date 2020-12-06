@@ -13,5 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
+    - name: Install cppcheck
+      run: sudo apt-get -y install cppcheck
+    - name: Cppcheck code
+      run: cppcheck MiniProject_C/3_Implementation
     
