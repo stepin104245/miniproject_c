@@ -6,3 +6,4 @@ personal diary management system
 
 
 ![cppcheck-action](https://github.com/stepin104245/miniproject_c/workflows/cppcheck-action/badge.svg?branch=main)
+![Valgrind](https://github.com/stepin104245/miniproject_c/workflows/Valgrind/badge.svg)
